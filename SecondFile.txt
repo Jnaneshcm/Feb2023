@@ -1,1 +1,1 @@
-Added something in Git Second
+Added something in Git Second in the second branch
